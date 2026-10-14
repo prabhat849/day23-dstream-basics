@@ -1,0 +1,7 @@
+INFO Application started
+ERROR Database connection failed
+INFO User logged in
+ERROR Null pointer exception
+WARNING High memory usage
+ERROR Payment service unavailable
+INFO Request completed
